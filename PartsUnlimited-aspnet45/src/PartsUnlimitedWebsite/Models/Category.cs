@@ -7,6 +7,7 @@ namespace PartsUnlimited.Models
     {
         public int CategoryId { get; set; }
 
+        // My third comment from another file
         [Required]
         public string Name { get; set; }
 
